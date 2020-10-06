@@ -64,7 +64,7 @@ logstash -f /app/logstash.conf
 http://localhost:9200/_search?pretty&size=1000
  ó
 ```bash
- wget http://localhost:9200/_search?pretty&size=1000
+ curl http://localhost:9200/_search?pretty&size=1000
 ```
 
 ### 4.- Levantar el servicio de Kibana 
