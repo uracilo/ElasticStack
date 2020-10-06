@@ -6,7 +6,6 @@ https://www.docker.elastic.co/
 ```bash
 mkdir ELK-example
 cd ELK-example
-docker network create -d bridge mynetwork   
 ```
 
 ### 1.- Crear la red 
