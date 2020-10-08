@@ -82,7 +82,7 @@ kibana:7.6.2
 docker inspect mynetwork
 ```
 
-### 6.- Revisión transmision de datos
+### 6.- Revisión transmisión de datos
 
 ```bash
 curl http://localhost:9200/_cat/indices\?v
