@@ -87,4 +87,13 @@ docker inspect mynetwork
 ```bash
 curl http://localhost:9200/_cat/indices\?v
 ```
+License
+----
+
+MIT
+
+
+**Free Software, Hell Yeah!**
+
+
 
